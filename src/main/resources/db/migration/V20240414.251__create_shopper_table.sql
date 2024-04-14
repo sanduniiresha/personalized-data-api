@@ -1,0 +1,3 @@
+CREATE TABLE shopper (
+    shopper_id VARCHAR(255) PRIMARY KEY NOT NULL
+);
